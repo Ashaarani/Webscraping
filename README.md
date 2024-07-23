@@ -30,5 +30,5 @@ Save Data to CSV: Saves the extracted data (title, price, date) into a CSV file.
 Automate Price Checking: Continuously checks the product price at specified intervals and updates the CSV file with the latest data.
 
 ## Additional Information
-The script checks the price every 10 seconds. You can adjust this interval as needed.
+The script checks the price every 3600 seconds. You can adjust this interval as needed.
 Ensure the WebDriver is properly configured and the necessary drivers are installed for your browser.
