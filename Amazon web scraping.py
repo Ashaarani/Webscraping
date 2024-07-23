@@ -146,7 +146,7 @@ def check_price():
 
 while(True):
     check_price()
-    time.sleep(10)
+    time.sleep(3600)
 
 
 # In[68]:
@@ -163,49 +163,6 @@ print(df)
 
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
